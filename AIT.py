@@ -1,7 +1,4 @@
 
-# coding: utf-8
-
-# In[4]:
 
 #importing necessary libraries
 import numpy as np 
@@ -213,15 +210,6 @@ plt.xlabel(r'Equivalence ratio')
 plt.ylabel("Autoignition temperature [K]")
 plt.savefig('3.png', bbox_inches='tight')
 plt.show()
-
-
-
-# In[ ]:
-
-
-
-
-# In[ ]:
 
 
 
